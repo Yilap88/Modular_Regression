@@ -1,1 +1,6 @@
+# Environment folder
 modular
+
+# Caché files originated for Python
+__pychache__/
+*.pyc
